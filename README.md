@@ -1,6 +1,6 @@
 # Python Homework 
 
-##PyBank 
+## PyBank 
 In this challenge, you are tasked with creating a Python script for analyzing the financial records of your company. You will give a set of financial data called budget_data.csv. The dataset is composed of two columns: Date and Profit/Losses. (Thankfully, your company has rather lax standards for accounting so the records are simple.)
 
 
@@ -19,10 +19,10 @@ In this challenge, you are tasked with creating a Python script for analyzing th
 * The greatest increase in profits (date and amount) over the entire period
 
 
-T* he greatest decrease in losses (date and amount) over the entire period
+* The greatest decrease in losses (date and amount) over the entire period
 
 
-##PyPoll
+## PyPoll
 In this challenge, you are tasked with helping a small, rural town modernize its vote counting process.
 You will be give a set of poll data called election_data.csv. The dataset is composed of three columns: Voter ID, County, and Candidate. Your task is to create a Python script that analyzes the votes and calculates each of the following:
 
@@ -41,7 +41,7 @@ You will be give a set of poll data called election_data.csv. The dataset is com
 
 * The winner of the election based on popular vote.
 
-##Bonus Assignment
+## Bonus Assignment
 
 
 
